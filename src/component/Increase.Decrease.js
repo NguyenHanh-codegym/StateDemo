@@ -5,7 +5,7 @@ class Calculate extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            number: 0,
+            number: 1,
         };
     }
 
